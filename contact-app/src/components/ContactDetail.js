@@ -12,7 +12,7 @@ const ContactDetail = (props) => {
         </div>
         <div className="content">
           <div className="header">{name}</div>
-          <div className="description">{email}</div>
+          <div className="description">{email}{phone}</div>
           <div className="description">{phone}</div>
         </div>
       </div>
