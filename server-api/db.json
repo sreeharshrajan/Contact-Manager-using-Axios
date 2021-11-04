@@ -2,8 +2,24 @@
   "contacts": [
     {
       "id": "asa",
-      "name": "he",
-      "email": "neic"
+      "name": "Suresh Kumar Narakathinadiyil",
+      "email": "sureshjnv09@gmail.com"
+    },
+    {
+      "id": "a2e20011-850d-43c1-81d1-29316faf2898",
+      "name": "Devashish K",
+      "email": "devasishkuttamath@gmail.com"
+    },
+    {
+      "id": "620d66ff-020c-4232-8b18-0e22a992b272",
+      "name": "Sreeharsh K",
+      "email": "sreeharshkrajan@gmail.com"
+    },
+    {
+      "id": "c7a9add8-1349-4be6-878e-55d79594a651",
+      "name": "Rajan K M",
+      "email": "rajanjnv@gmail.com",
+      "phone": "+919497419144"
     }
   ]
 }

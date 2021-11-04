@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import user from "../images/user.jpg";
 
 const ContactDetail = (props) => {
-  const { name, email } = props.location.state.contact;
+  const { name, email,phone } = props.location.state.contact;
   return (
     <div className="main">
       <div className="ui card centered">
@@ -13,6 +13,7 @@ const ContactDetail = (props) => {
         <div className="content">
           <div className="header">{name}</div>
           <div className="description">{email}</div>
+          <div className="description">{phone}</div>
         </div>
       </div>
       <div className="center-div">
