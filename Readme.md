@@ -1,7 +1,7 @@
 # Contact Manager App using React Axios
 
 > Quick and simple CRUD(Create, Read, Update and Delete) application on Reactjs using Axios and JSON Server.
-> Thank you @dmalvia for the Tutorial.
+> Thank you [@dmalvia](https://github.com/dmalvia) for the Tutorial.
 
 ## Installation
 1. Create the file packages include `.gitignore` file `node_modules/`, `package-lock.json`, `package.json`. 
